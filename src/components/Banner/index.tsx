@@ -1,6 +1,8 @@
 import Image from "next/image";
 import React from "react";
 
+//Banner Component
+
 export default function Banner() {
   return (
     <div className="flex justify-center items-center flex-col gap-2 sm:gap-4 w-full h-full px-4 mt-6 sm:mt-10">
